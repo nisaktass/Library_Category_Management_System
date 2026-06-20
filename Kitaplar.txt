@@ -1,0 +1,36 @@
+Kitap Adı: Suç Ve Ceza
+Yazar:Dostoyevski
+Basım Yılı 1866
+Fiyat: 555.00
+Kategori Kodu: 1
+...................
+Kitap Adı: Yüzyıllık Yalnızlık
+Yazar:Gabriel Garcia Marquez
+Basım Yılı 1967
+Fiyat: 150.00
+Kategori Kodu: 1
+...................
+Kitap Adı: Sefiller
+Yazar:Victor Hugo
+Basım Yılı 1862
+Fiyat: 555.00
+Kategori Kodu: 1
+...................
+Kitap Adı: DUNE
+Yazar:Frank Herbert
+Basım Yılı 1965
+Fiyat: 120.00
+Kategori Kodu: 2
+...................
+Kitap Adı: Ağaçkakan
+Yazar:Sait Faik Abasıyanık
+Basım Yılı 1965
+Fiyat: 120.00
+Kategori Kodu: 2
+...................
+Kitap Adı: Bu_Kitabın_Adı_50_Karakterden_Daha_Uzun_İse_Max
+Yazar:Yazar Adı 40 Karakter Asarsa İlk 40 Ka
+Basım Yılı 2024
+Fiyat: 150.00
+Kategori Kodu: 4
+...................

@@ -1,0 +1,4 @@
+1	Roman
+2	Hikaye
+3	ŞİİR
+4	30_karakterı_asan_kategori_ad
